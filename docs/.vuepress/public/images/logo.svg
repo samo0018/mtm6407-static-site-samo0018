@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 87.99 101.67">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: LarkenDEMO-Black, 'Larken DEMO';
+        font-size: 36px;
+        font-weight: 800;
+      }
+
+      .cls-2 {
+        fill: #0c0c0c;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #bf5333;
+      }
+
+      .cls-5 {
+        fill: #a6a181;
+      }
+
+      .cls-5, .cls-6, .cls-7, .cls-4, .cls-8 {
+        stroke-width: 0px;
+      }
+
+      .cls-6 {
+        fill: #fff;
+      }
+
+      .cls-7 {
+        fill: #eeb580;
+      }
+
+      .cls-8 {
+        fill: #668a8c;
+      }
+    </style>
+  </defs>
+  <g id="Resume_Page" data-name="Resume Page">
+    <g>
+      <ellipse class="cls-8" cx="8.57" cy="50.14" rx="8.57" ry="42.05"/>
+      <g>
+        <ellipse class="cls-7" cx="55.8" cy="50.83" rx="8.57" ry="50.83"/>
+        <ellipse class="cls-5" cx="32.19" cy="50.83" rx="8.57" ry="50.32"/>
+        <ellipse class="cls-4" cx="79.42" cy="50.83" rx="8.57" ry="44.02"/>
+        <ellipse class="cls-6" cx="44" cy="48.55" rx="38.98" ry="37.1"/>
+        <text class="cls-1" transform="translate(12.66 61.35)"><tspan class="cls-2" x="0" y="0">A</tspan><tspan class="cls-3" x="26.17" y="0">.</tspan><tspan class="cls-2" x="36.11" y="0">S</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
