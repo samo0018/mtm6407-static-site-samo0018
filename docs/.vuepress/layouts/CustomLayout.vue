@@ -1,19 +1,15 @@
 <template>
       <div class="container">
-
         <header>
           <h1>Layout's header</h1>
         </header>
-
         <main>
           <Content /> <!-- built-in component that display the index.md  -->
           <!-- <HelloVue /> -->
         </main>
-
         <footer>
           <p>&copy; {{ currentYear }} My VuePress Site</p>
         </footer>
-        
       </div>
     </template>
     
