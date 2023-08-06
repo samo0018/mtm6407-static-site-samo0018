@@ -5,6 +5,7 @@ import clientConfig3 from 'C:/Users/samoy/OneDrive/Desktop/Web_Dev_IV/week11/mtm
 import clientConfig4 from 'C:/Users/samoy/OneDrive/Desktop/Web_Dev_IV/week11/mtm6407-static-site-samo0018/node_modules/@vuepress/plugin-nprogress/lib/client/config.js'
 import clientConfig5 from 'C:/Users/samoy/OneDrive/Desktop/Web_Dev_IV/week11/mtm6407-static-site-samo0018/node_modules/@vuepress/plugin-theme-data/lib/client/config.js'
 import clientConfig6 from 'C:/Users/samoy/OneDrive/Desktop/Web_Dev_IV/week11/mtm6407-static-site-samo0018/node_modules/@vuepress/theme-default/lib/client/config.js'
+import clientConfig7 from 'C:/Users/samoy/OneDrive/Desktop/Web_Dev_IV/week11/mtm6407-static-site-samo0018/docs/.vuepress/client.ts'
 
 export const clientConfigs = [
   clientConfig0,
@@ -14,4 +15,5 @@ export const clientConfigs = [
   clientConfig4,
   clientConfig5,
   clientConfig6,
+  clientConfig7,
 ]
