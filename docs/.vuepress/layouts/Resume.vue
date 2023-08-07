@@ -17,11 +17,11 @@
           <router-link class="nav-item" to="/contact">Contact</router-link>
         </nav>
       </div>
-      <h1>Gallery</h1>
+      <h1>Resume</h1>
     </header>
 
     <main>
-      <Gallery />
+      <Resume />
     </main>
 
     <footer>
@@ -31,11 +31,9 @@
 </template>
     
 <script>
-//     import Contact from "../components/Contact.vue"
-    import Gallery from "../components/Gallery.vue"
+    import Resume from "../components/Resume.vue"
     export default {
-      components: {Gallery},
-      // components: {Contact},
+      components: {Resume},
       computed: {
         currentYear() {
           return new Date().getFullYear();
@@ -65,28 +63,6 @@ main {
 .container {
   margin-left: 20px;
   margin-right: 20px;
-}
-.gallery {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 10px;
-  max-width: 1000px;
-  margin: 20px auto;
-}
-.image-container {
-  margin: 20px;
-}
-.gallery img {
-  width: 100%;
-  height: auto;
-  display: block;
-  border-radius: 5px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  cursor: pointer;
-}
-
-img:active {
-  transform: scale(1.6);
 }
 
 h1, footer{
