@@ -13,12 +13,12 @@ export default {
               link: '/',
           },
           {
-            text: 'Resume',
-            link: '/resume',
-          },
-          {
             text: 'About',
             link: '/about',
+          },
+          {
+            text: 'Resume',
+            link: '/resume',
           },
           {
             text: 'Portfolio',
