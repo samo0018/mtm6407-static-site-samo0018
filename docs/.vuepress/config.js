@@ -31,9 +31,3 @@ export default {
         ],
     }),
 }
-
-module.exports = {
-  title: 'Portfolio',
-  description: 'Portfolio for Github',
-  base: "/mtm6407-static-site-samo0018/"
-}
